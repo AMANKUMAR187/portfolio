@@ -1,0 +1,34 @@
+[
+    {
+      "key": 1,
+      "title": "BIT-GO",
+      "imageSrc": "/assets/project/bit_go.jpg",
+      "description": "Developed an all-in-one Mobile app using flutter tailored for college students,incorporating vital features for safety, convenience, and community interaction",
+      "demo": "https://github.com/AMANKUMAR187/bit_go/assets/126344755/c04e33ae-94ca-4deb-bc48-97d20ae6c6ff",
+      "source": "https://github.com/AMANKUMAR187/bit_go"
+    },
+    {
+      "key": 2,
+      "title": "News_Snap",
+      "imageSrc": "https://images.unsplash.com/photo-1588681664899-f142ff2dc9b1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3cyUyMGFwcHxlbnwwfHwwfHx8MA%3D%3D",
+      "description": "Made an App using flutter,nodejs,expressjs,mongodb where user can save any news in seperate node section",
+      "demo": "https://github.com/AMANKUMAR187/News-Snap?tab=readme-ov-file#sample",
+      "source": "https://github.com/AMANKUMAR187/News-Snap"
+    },
+    {
+      "key": 3,
+      "title": "Portfolio",
+      "imageSrc": "https://media.istockphoto.com/id/1524816935/photo/human-resource-manager-looking-at-many-different-cv-resume.webp?b=1&s=170667a&w=0&k=20&c=UWriolrJQ5Dq2Jp2-RR2zKV-LRQtfXbirf2O4jdioJs=",
+      "description": "A Personal portfolio website showcasing projests,skills and contact information",
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "key": 4,
+      "title": "React Firebase App",
+      "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+      "description": "This is a project made with complete React js.",
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
