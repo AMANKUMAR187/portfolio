@@ -2,7 +2,7 @@
     {
       "key": 1,
       "title": "BIT-GO",
-      "imageSrc": "/assets/project/bit_go.jpg",
+      "imageSrc": "https://media.istockphoto.com/id/1321849433/photo/beautiful-cute-smiling-woman-is-using-mobile-phone-outside-on-road.webp?b=1&s=170667a&w=0&k=20&c=QmH8vUQGrE6dVKWwxfP4I3aYKMLk3l4Ix7BRDuDDzNc=",
       "description": "Developed an all-in-one Mobile app using flutter tailored for college students,incorporating vital features for safety, convenience, and community interaction",
       "demo": "https://github.com/AMANKUMAR187/bit_go/assets/126344755/c04e33ae-94ca-4deb-bc48-97d20ae6c6ff",
       "source": "https://github.com/AMANKUMAR187/bit_go"
@@ -19,16 +19,16 @@
       "key": 3,
       "title": "Portfolio",
       "imageSrc": "https://media.istockphoto.com/id/1524816935/photo/human-resource-manager-looking-at-many-different-cv-resume.webp?b=1&s=170667a&w=0&k=20&c=UWriolrJQ5Dq2Jp2-RR2zKV-LRQtfXbirf2O4jdioJs=",
-      "description": "A Personal portfolio website showcasing projests,skills and contact information",
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "A Personal portfolio website using React,HTML,CSS,Javascript showcasing projests,skills and contact information",
+      "demo": "https://aman187portfolio.netlify.app/",
+      "source": "https://github.com/AMANKUMAR187/portfolio"
     },
     {
       "key": 4,
-      "title": "React Firebase App",
-      "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-      "description": "This is a project made with complete React js.",
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Expenses App",
+      "imageSrc": "https://media.istockphoto.com/id/1193531888/photo/money-bag-with-coins-and-up-arrow-the-concept-of-a-successful-business-increase-profits-and.webp?b=1&s=170667a&w=0&k=20&c=plTXY4qthbseGleNMZmoJlgnxZjj4oG-YsPAM1nX2PM=",
+      "description": "A travel expense app using Flutter to track total expenses in any journey Showing expenses through graphical representation",
+      "demo": "https://github.com/AMANKUMAR187/ExpencesApp",
+      "source": "https://github.com/AMANKUMAR187/ExpencesApp"
     }
   ]
