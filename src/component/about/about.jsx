@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h2>Birla Institute Of Technology Mesra, Ranchi</h2>
               <p>
-                B.Tech in CSE : CGPA-8.52/10.00
+                B.Tech in CSE : CGPA-8.53/10.00
               </p>
             </div>
           </li>
